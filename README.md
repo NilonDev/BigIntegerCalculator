@@ -8,7 +8,7 @@ The calculator supports working with variables.
 Variable names must match the pattern [a-zA-z].
             
             Variable declaration example:
-            ">" is an input character, do not enter it when using a calculator 
+            ">" is an input character, do not enter it when using a calculator.
             > a = 25
             > b = a
             > a
