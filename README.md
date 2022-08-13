@@ -2,10 +2,11 @@
 Educational project JetBrains Academy Smart Calculator 0.0.1.
 
 Smart calculator version 0.0.1.
-            Supports operations with large INTEGER numbers.
-            Available operations: [ + - * / ^ ( ) ].
-            The calculator supports working with variables.
-            Variable names must match the pattern [a-zA-z].
+Supports operations with large INTEGER numbers.
+Available operations: [ + - * / ^ ( ) ].
+The calculator supports working with variables.
+Variable names must match the pattern [a-zA-z].
+            
             Variable declaration example:
             ">" is an input character, do not enter it when using a calculator 
             > a = 25
